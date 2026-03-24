@@ -1,11 +1,10 @@
 <!-- README.md for Prateek Singh -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek+Singh!;Full+Stack+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%8A;Open+Source+Contributor+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&width=680&lines=Hey%2C+I'm+Prateek+Singh.;I+build+full-stack+stuff.;Currently+deep+into+Faust+%2B+Web+Audio." />
 </p>
 
 <p align="center">
-
-  <a href="prateeksingh7652000017@gmail.com">
+  <a href="mailto:prateeksingh7652000017@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prateek-singh-p30112003">
@@ -14,36 +13,48 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CYBERGURU9920&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PrateekSingh070&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## About me
 
-🚀 I’m a **Full Stack Developer** passionate about building impactful products and scalable systems.  
-🛠️ My current focus is on crafting full-stack applications using the **MERN Stack** and sharpening my **DSA** skills.
+I like building things that are useful, fast, and not overengineered.
 
----
+Most of my regular work is full-stack web development (MERN side), and lately I’ve been exploring audio tech in the browser with Faust + Web Audio.
 
-### 🤝 Let’s Collaborate
-I'm open to:
-- 🤝 Open Source Contributions  
-- 🌱 Tech-for-good ideas  
-- 🧠 Brainstorming disruptive products
-
-Let's build something cool together!
+I’m also improving problem-solving/DSA in parallel.
 
 ---
 
-## 📫 Contact Me
+## What I’m building right now
 
-- 📬 **Email**: [prateeksingh7652000017@gmail.com](prateeksingh7652000017@gmail.com)  
-- 💼 **LinkedIn**: [Prateek Singh](https://www.linkedin.com/in/prateek-singh-p30112003)
+- Full-stack web projects with cleaner backend structure
+- Browser audio experiments (Faust DSP -> WASM -> AudioWorklet)
+- Modular synth prototype ideas
+- Open-source contributions where I can genuinely help
 
 ---
 
-## 🛠️ Languages and Tools
+## Collaboration
+
+I’m always open to:
+- Open source work
+- Audio/DSP tooling + creative coding
+- Tech-for-good products
+- Brainstorming early product ideas
+
+---
+
+## Contact
+
+- Email: [prateeksingh7652000017@gmail.com](mailto:prateeksingh7652000017@gmail.com)
+- LinkedIn: [Prateek Singh](https://www.linkedin.com/in/prateek-singh-p30112003)
+
+---
+
+## Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,27 +72,6 @@ Let's build something cool together!
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
 </p>
-
----
-
-
-<!--
-**CYBERGURU9920/CYBERGURU9920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
