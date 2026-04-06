@@ -1,7 +1,7 @@
-<!-- README.md for Prateek Singh — place in repo PrateekSingh070/PrateekSingh070 for GitHub profile -->
+<!-- README.md for Prateek Singh -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&width=720&lines=Hey%2C+I%27m+Prateek+Singh.;I+work+on+Tiled+%26+map-to-runtime+pipelines.;C%2B%2B+%C2%B7+Qt+%C2%B7+TMX%2FTSX+%C2%B7+game+tooling." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&width=700&lines=Hey%2C+I'm+Prateek+Singh.;I+build+tools+%26+pipelines+for+2D+game+worlds.;C%2B%2B+%C2%B7+Qt+%C2%B7+full-stack+web." />
 </p>
 
 <p align="center">
@@ -10,9 +10,6 @@
   </a>
   <a href="https://www.linkedin.com/in/prateek-singh-p30112003">
     <img src="https://img.shields.io/badge/LinkedIn-Prateek%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discourse.mapeditor.org/u/prateek7">
-    <img src="https://img.shields.io/badge/Tiled%20forums-Community-4A90D9?style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
 </p>
 
@@ -24,39 +21,31 @@
 
 ## About me
 
-I care about **tools that sit between what designers author and what engines run**. **[Tiled](https://www.mapeditor.org/)** is a big part of that for me: **tile layers**, **object layers**, **TMX/TSX/JSON** maps, **properties**, **tilesets**, and how all of that is **exported** and consumed in games.
+I like building things that are useful, fast, and not overengineered.
 
-I already have **hands-on context** in this space: **reading the Tiled codebase**, **C++ and Qt** (the same stack Tiled uses), **compression and map I/O edge cases**, and **small experiments** that connect map data to wider ecosystems (e.g. **glTF** for interchange/visualization). I’m also comfortable on the **web side** (MERN-style apps) when a tool needs a UI or API next to native editors.
+My day-to-day is full-stack web development (MERN side), but I spend a lot of time in **C++ and Qt** building desktop tooling — level editors, map-format parsers, exporters, and anything that bridges what a designer creates and what an engine actually loads. I'm comfortable working with **tile-based map formats** (TMX/TSX/JSON), **compression codecs** in I/O pipelines, and **scene interchange** standards like **glTF 2.0**.
 
----
-
-## Tiled & open source
-
-| | |
-|---|---|
-| **Upstream Tiled** | [PR #4419](https://github.com/mapeditor/tiled/pull/4419) — clearer errors when map compression fails · [PR #4465](https://github.com/mapeditor/tiled/pull/4465) |
-| **Maps → glTF** | [tiled-gltf-poc](https://github.com/PrateekSingh070/tiled-gltf-poc) — minimal **C++** writer using [cgltf](https://github.com/jkuhlmann/cgltf); valid **glTF 2.0** output |
-
-**Community:** [Prateek7 @ Tiled forums](https://discourse.mapeditor.org/u/prateek7) · [mapeditor/tiled](https://github.com/mapeditor/tiled)
+I'm also improving problem-solving / DSA in parallel.
 
 ---
 
-## What I’m focusing on now
+## What I'm building right now
 
-- **Tiled** and adjacent **map / level-design tooling** (formats, plugins, UX around errors and export)
-- **Full-stack** projects where a clean API and structure matter
-- **Problem-solving / DSA** in parallel
+- **Desktop tooling** around 2D map editors — better error handling, format export, and plugin experiments
+- A small **C++ proof-of-concept** that converts tile-map data to **glTF 2.0** for 3D viewers
+- Full-stack web projects with cleaner backend structure
+- Open-source contributions where I can genuinely help
 
 ---
 
 ## Collaboration
 
-I’m open to:
+I'm open to:
 
-- **Open source** (especially **editors, exporters, game pipelines**)
-- **Creative coding** and **tooling** prototypes
-- **Tech-for-good** products
-- Early **product / architecture** brainstorming
+- Open source work (especially **editors, exporters, game pipelines**)
+- Creative coding and tooling prototypes
+- Tech-for-good products
+- Brainstorming early product ideas
 
 ---
 
