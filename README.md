@@ -30,7 +30,7 @@
 
 I like shipping things that are useful, fast, and not overengineered — clean APIs, solid frontend UX, and backends that stay maintainable.
 
-I also work in **C++ and Qt** on desktop tooling: level editors, map-format parsers, exporters, and pipelines that bridge what a designer creates and what an engine loads. Comfortable with **tile-based map formats** (TMX/TSX/JSON), **compression codecs** in I/O pipelines, and **scene interchange** standards like **glTF 2.0**.
+I also work in **C++**.
 
 Improving problem-solving / DSA in parallel.
 
@@ -39,8 +39,6 @@ Improving problem-solving / DSA in parallel.
 ## What I'm building right now
 
 - Full-stack web projects with cleaner backend structure and stronger product UX
-- **Desktop tooling** around 2D map editors — better error handling, format export, and plugin experiments
-- A small **C++ proof-of-concept** that converts tile-map data to **glTF 2.0** for 3D viewers
 - Open-source contributions where I can genuinely help
 
 ---
@@ -50,7 +48,6 @@ Improving problem-solving / DSA in parallel.
 I'm open to:
 
 - Full-stack web roles and freelance / product work
-- Open source (especially **editors, exporters, game pipelines**)
 - Creative coding and tooling prototypes
 - Tech-for-good products
 - Brainstorming early product ideas
